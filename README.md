@@ -8,4 +8,11 @@ In today's fast-paced world, automating repetitive tasks and performing web test
 
 ## Projects
 
-1. **Instagram Bot**: Brief description of the Instagram Bot project goes here.
+1. **Instagram Bot**: 🤖✨
+
+   - 🚀 Automate login with ease.
+   - ❤️ Like posts to show appreciation.
+   - 🤝 Follow and unfollow users strategically.
+   - 📖 View stories discreetly.
+   - 📊 Gain valuable data insights for a data-driven approach.
+
