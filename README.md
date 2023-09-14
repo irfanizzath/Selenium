@@ -9,4 +9,4 @@ In today's fast-paced world, automating repetitive tasks and performing web test
 
 ## Projects
 
-1. **Instagram Bot**: ![image](https://github.com/irfanizzath/Selenium/assets/121705156/7f46e615-e7a8-4851-9fd2-673febbf0af8)
+1. **Instagram Bot**: 
