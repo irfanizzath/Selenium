@@ -16,3 +16,6 @@ In today's fast-paced world, automating repetitive tasks and performing web test
    - 📖 View stories discreetly.
    - 📊 Gain valuable data insights for a data-driven approach.
 
+2. **Instagram Blogger Habit Analysis**: 🤖📊
+
+   - 📊 Gain valuable data insights for a data-driven approach.
